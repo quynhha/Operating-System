@@ -1,0 +1,742 @@
+Script started on 2020-10-14 11:57:34-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit pro[K[K[K./proj4  1.txt 1
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):1ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1.txt 1[K1024
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1.txt 1024[K[K[K[K4[K2048
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1.txt 2048[K[K[K[K4096
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1.txt 4096[K[K[K[K8192
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 1
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1.txt 8192[K[K[K[Kmmap
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 139
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1.txt mmap[K[K[K[K[K[K[K[K[Kk.txt 1
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1k.txt 1024
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 138
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1k.txt 1024[K[K[K[K2048
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1k.txt 2048409[K[K[K[K[K[K[K4096
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):1ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1k.txt 409681[K[K[K[K[K[K8192
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 139
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 1k.txt 8192[K[K[K[Kmmap
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ 4[K./doit ./proj4 1k.txt mmap[K[K[K[K[K[K[K[K[K[K[K4k.reapeaks 1
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):4ms
+The amount of CPU time used (both user and system time) (in milliseconds): 4ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 4ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 4k.reapeaks 1[K1024
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 3
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 4k.reapeaks 1024[K[K[K[K2048
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):1ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 4k.reapeaks 2048[K[K[K[K4096
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):17ms
+The amount of CPU time used (both user and system time) (in milliseconds): 17ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 9ms
+The number of times process was preempted involuntarily: 3
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 4k.reapeaks 4096[K[K[K[K8192
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 4k.reapeaks 8192 [K[K[K[K[Kmmap
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 4k.reapeaks mmap[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  8k.zip 1
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):3ms
+The amount of system time(in millisecond):3ms
+The amount of CPU time used (both user and system time) (in milliseconds): 6ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 8ms
+The number of times process was preempted involuntarily: 2
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip 1024
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip 1024[K[K[K[K2048
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 1
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip 2048[K[K[K[K4096
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip 4096[K[K[K[K9192[K[K[K[K8192
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip 8192[K[K[K[K99999
+Chunk size is too big. Auto set to: 8192.
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip 99999[K[K[K[K[Kmmap
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 8k.zip mmap[K[K[K[K[K[K[K[K[K[K[Kdoit 1
+15107 printable characters out of 44176 bytes, 34%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):11ms
+The amount of system time(in millisecond):27ms
+The amount of CPU time used (both user and system time) (in milliseconds): 38ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 40ms
+The number of times process was preempted involuntarily: 12
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 doit 1024
+15107 printable characters out of 44176 bytes, 34%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 3
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 139
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 doit 1024[K[K[K[K2048
+15107 printable characters out of 44176 bytes, 34%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 doit 2048[K[K[K[K4096
+15107 printable characters out of 44176 bytes, 34%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):5ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 5ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 5ms
+The number of times process was preempted involuntarily: 2
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 doit 4096[K[K[K[K8192
+15107 printable characters out of 44176 bytes, 34%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 doit 8192[K[K[K[Kmmap
+15107 printable characters out of 44176 bytes, 34%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):2ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 1
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 doit mmap[K[K[K[K[K[K[K[K[Kproj2[K4 1
+4654 printable characters out of 22960 bytes, 20%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):18ms
+The amount of system time(in millisecond):3ms
+The amount of CPU time used (both user and system time) (in milliseconds): 21ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 23ms
+The number of times process was preempted involuntarily: 4
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 proj4 1024
+4654 printable characters out of 22960 bytes, 20%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 2
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 proj4 1024[K[K[K[K2048
+4654 printable characters out of 22960 bytes, 20%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):2ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 proj4 2048[K[K[K[K4096
+4654 printable characters out of 22960 bytes, 20%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 139
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 proj4 4096[K[K[K[K8192
+4654 printable characters out of 22960 bytes, 20%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):0ms
+The amount of system time(in millisecond):2ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 3ms
+The number of times process was preempted involuntarily: 2
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 proj4 8192[K[K[K[Kmmap
+4654 printable characters out of 22960 bytes, 20%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 2
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 144
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 proj4 mmap[K[K[K[K[K[K[K[K[K[Ktest.png 1
+838242 printable characters out of 2257421 bytes, 37%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):765ms
+The amount of system time(in millisecond):1393ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2158ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2160ms
+The number of times process was preempted involuntarily: 20
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 test.png 1024
+838242 printable characters out of 2257421 bytes, 37%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):57ms
+The amount of system time(in millisecond):7ms
+The amount of CPU time used (both user and system time) (in milliseconds): 64ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 69ms
+The number of times process was preempted involuntarily: 21
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 test.png 1024[K[K[K[K2048
+838242 printable characters out of 2257421 bytes, 37%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):60ms
+The amount of system time(in millisecond):4ms
+The amount of CPU time used (both user and system time) (in milliseconds): 64ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 66ms
+The number of times process was preempted involuntarily: 9
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 test.png 2048[K[K[K[K4096
+838242 printable characters out of 2257421 bytes, 37%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):61ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 61ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 63ms
+The number of times process was preempted involuntarily: 6
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 138
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 test.png 4096[K[K[K[K8129[K[K92
+838242 printable characters out of 2257421 bytes, 37%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):53ms
+The amount of system time(in millisecond):7ms
+The amount of CPU time used (both user and system time) (in milliseconds): 60ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 66ms
+The number of times process was preempted involuntarily: 20
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 144
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 test.png 8192[K[K[K[Kmmap
+838242 printable characters out of 2257421 bytes, 37%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):64ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 64ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 65ms
+The number of times process was preempted involuntarily: 3
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 175
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 test.png mmap[K[K[K[K[K[K[K[K[K[K[K[K[Ka.ai 1
+^[[A^[[D        11459196 printable characters out of 29201842 bytes, 39%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):12435ms
+The amount of system time(in millisecond):18623ms
+The amount of CPU time used (both user and system time) (in milliseconds): 31058ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 31103ms
+The number of times process was preempted involuntarily: 1176
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 139
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 a.ai 1[K1024
+11459196 printable characters out of 29201842 bytes, 39%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):939ms
+The amount of system time(in millisecond):40ms
+The amount of CPU time used (both user and system time) (in milliseconds): 979ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 982ms
+The number of times process was preempted involuntarily: 12
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 a.ai 1024[K[K[K[K2048
+11459196 printable characters out of 29201842 bytes, 39%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):873ms
+The amount of system time(in millisecond):15ms
+The amount of CPU time used (both user and system time) (in milliseconds): 888ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 894ms
+The number of times process was preempted involuntarily: 46
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 a.ai 2048[K[K[K[K4096
+11459196 printable characters out of 29201842 bytes, 39%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):924ms
+The amount of system time(in millisecond):12ms
+The amount of CPU time used (both user and system time) (in milliseconds): 936ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 938ms
+The number of times process was preempted involuntarily: 42
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 a.ai 4096[K[K[K[K8192
+11459196 printable characters out of 29201842 bytes, 39%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):877ms
+The amount of system time(in millisecond):7ms
+The amount of CPU time used (both user and system time) (in milliseconds): 884ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 888ms
+The number of times process was preempted involuntarily: 16
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4 a.ai 8192[K[K[K[Kmmap
+11459196 printable characters out of 29201842 bytes, 39%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):926ms
+The amount of system time(in millisecond):7ms
+The amount of CPU time used (both user and system time) (in milliseconds): 933ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 935ms
+The number of times process was preempted involuntarily: 7
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 584
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ exit
+exit
+
+Script done on 2020-10-14 12:33:58-04:00 [COMMAND_EXIT_CODE="0"]

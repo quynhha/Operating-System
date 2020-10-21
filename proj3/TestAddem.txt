@@ -1,0 +1,24 @@
+Script started on 2020-10-05 13:27:10-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ make
+make: Nothing to be done for 'all'.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 10 100
+The total for 1 to 100 using 10 threads is 5050.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 10[K 100
+The total for 1 to 100 using 1 threads is 5050.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 10 1000 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K0
+The total for 1 to 1000 using 10 threads is 500500.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 240[K[K[K5[K2 2403
+The total for 1 to 2403 using 2 threads is 2888406.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 0 213
+The input range for threads must be a integer that is larger or equal to 1.
+Set the thread range to: 1 thread.
+The total for 1 to 213 using 1 threads is 22791.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 1.4 200 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K0
+The total for 1 to 200 using 1 threads is 20100.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./addem 15 240
+Addem has a limit of threads: 10
+The total for 1 to 240 using 10 threads is 28920.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ exit
+exit
+
+Script done on 2020-10-05 13:29:25-04:00 [COMMAND_EXIT_CODE="0"]

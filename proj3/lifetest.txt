@@ -1,0 +1,762 @@
+Script started on 2020-10-06 03:39:29-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ make
+g++ life.cpp -o life -lpthread
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./life 5 test1. txt 7
+Generation 0: 
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+
+
+The game ends after 2 genrations with:
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./life 5 test1. txt 7 y
+Generation 0: 
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+
+
+Generation 1: 
+	 1 0 0 1
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 1 0 0 1
+
+
+The game ends after 2 genrations with:
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ tes[K[K[K./life 5 test1. txt 7 y y
+Generation 0: 
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+	 1 1 1 1
+
+
+Please press any button and hit enter for results!!!
+
+Generation 1: 
+	 1 0 0 1
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 1 0 0 1
+
+
+Please press any button and hit enter for results!!!
+
+The game ends after 2 genrations with:
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./life 5 test2. txt 7 
+Generation 0: 
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+
+
+The game ends after 7 genrations with:
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 1 0 1 0 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./life 9 test2. txt 10 y 
+Generation 0: 
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+
+
+Generation 1: 
+	 0 1 1 0 1 0 1
+	 0 0 0 0 0 0 1
+	 1 1 0 1 0 0 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 1
+	 0 0 0 0 1 0 0
+	 0 0 1 0 1 0 0
+	 0 0 1 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 1 0 1 0 0 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 1
+	 0 0 0 0 1 0 0
+	 0 0 1 0 1 0 0
+	 0 0 1 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 1 0 1 0 0 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 1
+	 0 0 0 0 1 0 0
+	 0 1 1 0 1 1 0
+
+
+Generation 2: 
+	 0 0 0 0 0 1 0
+	 1 0 0 1 0 1 0
+	 1 1 0 0 0 1 1
+	 1 0 0 0 1 1 1
+	 0 1 0 0 1 0 1
+	 0 1 1 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 1 0 1 0
+	 0 1 1 0 0 0 0
+	 1 1 0 0 0 1 1
+	 1 0 0 0 1 1 1
+	 0 1 0 0 1 0 1
+	 0 1 1 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 1 0 1 0
+	 0 1 1 0 0 0 0
+	 1 1 0 0 0 1 1
+	 1 0 0 0 1 1 1
+	 0 1 0 0 1 0 1
+	 0 0 0 0 1 0 1
+	 0 0 0 1 1 1 0
+
+
+Generation 3: 
+	 0 0 0 0 1 0 0
+	 1 1 0 0 0 1 0
+	 1 1 0 0 0 0 0
+	 1 0 0 0 1 0 0
+	 1 1 1 0 1 0 1
+	 0 1 1 1 1 0 0
+	 0 0 1 1 0 1 0
+	 0 0 1 0 1 0 0
+	 1 1 1 0 1 1 1
+	 1 0 1 0 1 0 1
+	 1 0 0 0 1 0 0
+	 1 1 1 0 1 0 1
+	 0 1 1 1 1 0 0
+	 0 0 1 1 0 1 0
+	 0 0 1 0 1 0 0
+	 1 1 1 0 1 1 1
+	 1 0 1 0 1 0 1
+	 1 0 0 0 1 0 0
+	 0 0 0 1 1 0 1
+	 0 0 0 0 0 0 1
+	 0 0 0 1 1 1 0
+
+
+Generation 4: 
+	 0 0 0 0 0 0 0
+	 1 1 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 1 0
+	 1 0 0 0 1 0 0
+	 1 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 1
+	 1 0 1 0 1 0 1
+	 1 0 1 0 1 0 0
+	 1 0 0 0 1 0 0
+	 1 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 1
+	 1 0 1 0 1 0 1
+	 0 1 0 0 1 0 0
+	 0 0 0 1 1 0 0
+	 0 0 0 0 0 0 1
+	 0 0 0 0 1 1 0
+
+
+Generation 5: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 0 1 1 0 0
+	 0 1 0 1 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 0
+	 1 0 0 0 1 0 0
+	 1 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 0
+	 0 1 1 0 1 0 0
+	 0 0 0 1 1 1 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 1 0
+
+
+Generation 6: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 1 0 1 0 1 0
+	 1 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 1 0 0 1 0
+	 0 1 1 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 1 0 1 0
+	 0 0 0 0 0 0 0
+
+
+Generation 7: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 1 0 1 0 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+
+
+Generation 8: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 1 1 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+
+
+Generation 9: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 1 1 0 1 1 0
+	 0 0 1 0 1 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 0 0 0 0
+	 0 0 1 0 0 0 0
+	 0 0 0 0 0 0 0
+
+
+The game ends after 10 genrations with:
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 1 0
+	 0 1 1 0 1 1 0
+	 0 1 1 0 1 1 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ test [K[K[K[K[K./life 2[K7 test2. txt 10 y y
+Generation 0: 
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+	 0 0 1 0 1 0 1
+	 1 0 1 1 1 1 1
+	 0 1 0 1 0 1 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 0
+	 0 0 1 1 1 0 0
+	 1 0 1 0 1 0 1
+
+
+Please press any button and hit enter for results!!!
+
+Generation 1: 
+	 0 1 1 0 1 0 1
+	 0 0 0 0 0 0 1
+	 1 1 0 1 0 0 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 1
+	 0 0 0 0 1 0 0
+	 0 0 1 0 1 0 0
+	 0 0 1 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 1 0 1 0 0 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 1
+	 0 0 0 0 1 0 0
+	 0 0 1 0 1 0 0
+	 0 0 1 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 1 0 1 0 0 0
+	 1 0 0 0 0 1 1
+	 0 1 1 0 0 1 1
+	 0 0 0 0 1 0 0
+	 0 1 1 0 1 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 2: 
+	 0 0 0 0 0 1 0
+	 1 0 0 1 0 1 0
+	 1 1 0 0 0 1 1
+	 1 0 0 0 1 1 1
+	 0 1 0 0 1 0 1
+	 0 1 1 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 1 0 1 0
+	 0 1 1 0 0 0 0
+	 1 1 0 0 0 1 1
+	 1 0 0 0 1 1 1
+	 0 1 0 0 1 0 1
+	 0 1 1 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 1 0 1 0
+	 0 1 1 0 0 0 0
+	 1 1 0 0 0 1 1
+	 1 0 0 0 1 1 1
+	 0 1 0 0 1 0 1
+	 0 0 0 0 1 0 1
+	 0 0 0 1 1 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 3: 
+	 0 0 0 0 1 0 0
+	 1 1 0 0 0 1 0
+	 1 1 0 0 0 0 0
+	 1 0 0 0 1 0 0
+	 1 1 1 0 1 0 1
+	 0 1 1 1 1 0 0
+	 0 0 1 1 0 1 0
+	 0 0 1 0 1 0 0
+	 1 1 1 0 1 1 1
+	 1 0 1 0 1 0 1
+	 1 0 0 0 1 0 0
+	 1 1 1 0 1 0 1
+	 0 1 1 1 1 0 0
+	 0 0 1 1 0 1 0
+	 0 0 1 0 1 0 0
+	 1 1 1 0 1 1 1
+	 1 0 1 0 1 0 1
+	 1 0 0 0 1 0 0
+	 0 0 0 1 1 0 1
+	 0 0 0 0 0 0 1
+	 0 0 0 1 1 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 4: 
+	 0 0 0 0 0 0 0
+	 1 1 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 1 0
+	 1 0 0 0 1 0 0
+	 1 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 1
+	 1 0 1 0 1 0 1
+	 1 0 1 0 1 0 0
+	 1 0 0 0 1 0 0
+	 1 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 1
+	 1 0 1 0 1 0 1
+	 0 1 0 0 1 0 0
+	 0 0 0 1 1 0 0
+	 0 0 0 0 0 0 1
+	 0 0 0 0 1 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 5: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 0 1 1 0 0
+	 0 1 0 1 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 0
+	 1 0 0 0 1 0 0
+	 1 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 1
+	 0 0 0 0 0 0 1
+	 1 0 1 0 1 0 0
+	 0 1 1 0 1 0 0
+	 0 0 0 1 1 1 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 6: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 1 0 1 0 1 0
+	 1 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 1 0 0 1 0
+	 0 1 1 0 0 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 1 0 1 0
+	 0 0 0 0 0 0 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 7: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 1 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 1 0 1 0 0
+	 0 0 0 0 1 0 0
+	 0 0 0 0 0 0 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 8: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 0 1 0 1 0 0
+	 0 0 1 1 1 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 1 1 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 1 1 0 0 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 9: 
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 0 0
+	 0 1 1 0 1 1 0
+	 0 0 1 0 1 0 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 0 0 0 0
+	 0 0 1 0 0 0 0
+	 0 0 0 0 0 0 0
+
+
+Please press any button and hit enter for results!!!
+
+The game ends after 10 genrations with:
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 1 1 0 0 0
+	 0 1 0 0 1 1 0
+	 0 1 1 0 1 1 0
+	 0 1 1 0 1 1 0
+	 0 0 0 1 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+	 0 0 0 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./life 7 test_repeat.txt 10 y y[K[K y[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct_rep[1P[A]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ [C[C[C[C[C[C[C[C[C[C[Ct_repe[1P[A]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ [C[C[C[C[C[C[C[C[C[C[C_repea[1P[A]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ [C[C[C[C[C[C[C[C[C[C[Crepeat[1P[A]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ [C[C[C[C[C[C[C[C[C[Crepeat.[1P[A]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[1@t[1@e[1@s[1@t[C[C[C[C[C[C[C[C[C[C[C
+Generation 0: 
+	 0 1 1 0
+	 0 1 1 1
+	 0 1 1 0
+	 0 1 1 0
+	 0 1 1 1
+	 0 1 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 1: 
+	 0 1 0 1
+	 1 0 0 1
+	 1 0 0 0
+	 1 0 0 0
+	 1 0 0 1
+	 0 1 0 1
+
+
+Please press any button and hit enter for results!!!
+
+Generation 2: 
+	 0 0 1 0
+	 1 1 1 0
+	 1 1 0 0
+	 1 1 0 0
+	 1 1 1 0
+	 0 0 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 3: 
+	 0 0 1 0
+	 1 0 1 0
+	 0 0 0 0
+	 0 0 0 0
+	 1 0 1 0
+	 0 0 1 0
+
+
+Please press any button and hit enter for results!!!
+
+Generation 4: 
+	 0 1 0 0
+	 0 1 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 1 0 0
+	 0 1 0 0
+
+
+Please press any button and hit enter for results!!!
+
+The game ends after 5 genrations with:
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+	 0 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ 5 emptytest.txt  7
+5: command not found
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ .[K/[K./life 5 emptyt est.txt 7
+Generation 0: 
+	 0 0 0
+	 0 0 0
+	 0 0 0
+	 0 0 0
+
+
+The game ends after 1 genrations with:
+	 0 0 0
+	 0 0 0
+	 0 0 0
+	 0 0 0
+
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./life 8 [K[K7 e[Kexcced limittest.txt 8
+ Exceed the maximum number of rows or columns in the grid.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj3[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj3[00m$ ./l[K[K[Kcl[K[Kexit
+exit
+
+Script done on 2020-10-06 03:45:21-04:00 [COMMAND_EXIT_CODE="255"]

@@ -1,0 +1,159 @@
+Script started on 2020-09-11 23:10:36-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/Luna Project 1[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/Luna Project 1[00m$ ./doit 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct 
+ wc fpp[K[Koo.txt
+Segmentation fault (core dumped)
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/Luna Project 1[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/Luna Project 1[00m$ ./doit 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+Please enter your command with needed parameters
+==>cat /etc/motd
+cat: /etc/motd: No such file or directory
+
+The command cat used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 1
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 76
+
+Please enter your command with needed parameters
+==>sleep 4
+
+The command sleep used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 4004ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 3
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 150
+
+Please enter your command with needed parameters
+==>ls
+a.out  doit  proj1.txt	project1code.c	TestPath
+
+The command ls used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 3ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 4
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 258
+
+Please enter your command with needed parameters
+==>cd TestPath
+The current directory is changed to: TestPath
+Please enter your command with needed parameters
+==>ls
+foo.txt  Kp
+
+The command ls used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 5ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 5
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 369
+
+Please enter your command with needed parameters
+==>cd --  --
+The current directory is changed to: --
+Please enter your command with needed parameters
+==>ls
+foo.txt  Kp
+
+The command ls used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 6ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 6
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 479
+
+Please enter your command with needed parameters
+==>cd ..
+The current directory is changed to: ..
+Please enter your command with needed parameters
+==>ls
+a.out  doit  proj1.txt	project1code.c	TestPath
+
+The command ls used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 8ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 7
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 592
+
+Please enter your command with needed parameters
+==>set prompt = myprompt
+Prompt set up to: myprompt:
+Please enter your command with needed parameters
+myprompt:exit
+Exiting!
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/Luna Project 1[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/Luna Project 1[00m$ ./doit 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+Please enter your command with needed parameters
+==>slep e    k
+System call error! Error from execvp.
+
+The command k used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 0ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 0ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 1
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 25
+
+Please enter your command with needed parameters
+==>jobs
+System call error! Error from execvp.
+
+The command jobs used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 0ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 0ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 50
+
+Please enter your command with needed parameters
+==>sleep 4 &
+sleep: invalid time interval ‘&’
+Try 'sleep --help' for more information.
+
+The command sleep used the following system resources:
+
+____________________________
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 1ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 3
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 132
+
+Please enter your command with needed parameters
+==>exit
+Exiting!
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/Luna Project 1[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/Luna Project 1[00m$ exit
+exit
+
+Script done on 2020-09-11 23:14:45-04:00 [COMMAND_EXIT_CODE="0"]

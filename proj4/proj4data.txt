@@ -1,0 +1,157 @@
+Script started on 2020-10-14 02:32:53-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ make
+make: Nothing to be done for 'all'.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 proj4
+4654 printable characters out of 22960 bytes, 20%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 proj4 8 129
+4654 printable characters out of 22960 bytes, 20%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ .p[K/proj4 proj4 m map
+4654 printable characters out of 22960 bytes, 20%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 1.txt
+2 printable characters out of 2 bytes, 100%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 1.txt m map
+2 printable characters out of 2 bytes, 100%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 1k.txt
+1148 printable characters out of 1154 bytes, 99%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 1k.txt  mmap
+1148 printable characters out of 1154 bytes, 99%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 4k.reap eaks
+683 printable characters out of 3458 bytes, 19%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 4k.reap eaks mmap
+683 printable characters out of 3458 bytes, 19%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 8k.zip
+3139 printable characters out of 7395 bytes, 42%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 8k.zipp  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  mmap
+3139 printable characters out of 7395 bytes, 42%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4  1.txt
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 2
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 138
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4  1.txt mmap
+2 printable characters out of 2 bytes, 100%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4[K[K[K[K[Kdoit ./proj4  1k.txt
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 140
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4  1ktxtx[K[K[K[K.x[Ktxt mmap
+1148 printable characters out of 1154 bytes, 99%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4  4k.reapeaks
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./p[Kdoit ./proj4  4k.rep[Kapeaks mmap
+683 printable characters out of 3458 bytes, 19%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 143
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4  8k.zip
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):2ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 2ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 141
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./doit ./proj4  8k.zip mmap
+3139 printable characters out of 7395 bytes, 42%.
+
+The command ./proj4 used the following system resources:
+
+____________________________
+The amount of CPU time used by user(in millisecond):1ms
+The amount of system time(in millisecond):0ms
+The amount of CPU time used (both user and system time) (in milliseconds): 1ms
+The elapsed (wall-clock) time for the command to execute (in milliseconds): 2ms
+The number of times process was preempted involuntarily: 0
+The number of times process gave up CPU voluntarily: 2
+The number of page faults(Require disk I/O,): 0
+The number of page faults (Could be satisfied without disk I/O): 142
+
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 makefil e
+194 printable characters out of 194 bytes, 100%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 makefil e mmap
+194 printable characters out of 194 bytes, 100%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ ./proj4 doit 90 00
+Chunk size is too big. Auto set to: 8192.
+15107 printable characters out of 44176 bytes, 34%.
+]0;lovequeen2403@lovequeen2403-VirtualBox: ~/Documents/CS3013/proj4[01;32mlovequeen2403@lovequeen2403-VirtualBox[00m:[01;34m~/Documents/CS3013/proj4[00m$ exit
+exit
+
+Script done on 2020-10-14 02:39:21-04:00 [COMMAND_EXIT_CODE="0"]

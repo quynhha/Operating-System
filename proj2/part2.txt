@@ -1,0 +1,26 @@
+AAA: 104 invoked system call instances from 22 unique system calls.
+access:access  2
+arch_prctl:arch_prctl  2
+brk:brk  3
+mmap:close  11
+close:close  11
+execve:execve  1
+exit_group:exit_group  1
+open:fstat  10
+getdents64:getdents64  2
+ioctl:ioctl  2
+mmap:mmap  27
+mmap:mmap  27
+mmap:mprotect  9
+mprotect:mprotect  9
+munmap:munmap  1
+openat:openat  9
+pread64:pread64  8
+prlimit64:prlimit64  1
+open:read  7
+rt_sigaction:rt_sigaction  2
+rt_sigprocmask:rt_sigprocmask  1
+set_robust_list:set_robust_list  1
+set_tid_address:set_tid_address  1
+statfs:statfs  2
+write:write  1
